@@ -2,7 +2,7 @@
 ![image](https://github.com/user-attachments/assets/94732224-3d69-4efb-9f8b-3354f6efb0a4)
 
 ## About the data
-Mock data is sales data made throught the year of 2021 by a company. Its made of 8 rows and 1000 rows.  
+Mock data is sales data made throught the year of 2021 by a company. Its made of 8 rows and 1000 rows. You can download Mock_data.csv from this repo 
 The columns are:-  
 1. Sales Information  
 - sales_person id  
@@ -19,7 +19,13 @@ The columns are:-
 - Identify sales trend throughout the year
 - Calculate and Identify sales by Channel
 - Identify sales by region
-- Identify sales made by different sales person 
+- Identify sales made by different sales person
+
+## Tools Used
+- Excel Power Query
+- Pivot Tables
+- Excel Tables
+- Excel Pivot charts
 
 ## Data Transformation
 ### 1. Transformed and Standardized sales_date column  
